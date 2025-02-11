@@ -1,0 +1,9 @@
+user_info:
+  name: "Pierre-Louis Gaultier"
+  profession: "Robotics and AI Engineer"
+  specialization: "Robotics, AI, Machine Learning"
+
+model_settings:
+  model_name: "mistral:7b"
+  temperature: 0.3
+  num_gpu: 35 
